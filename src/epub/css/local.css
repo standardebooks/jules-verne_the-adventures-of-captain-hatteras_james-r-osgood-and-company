@@ -19,6 +19,10 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+[epub|type~="se:letter.dateline"]{
+	text-align: right;
+}
 /* end letters */
 
 /* tables */
@@ -40,3 +44,39 @@ td{
 	padding: 0 0.5em 0 0;
 }
 /* end tables */
+
+/* epigraph */
+[epub|type~="epigraph"]{
+	font-style: italic;
+	hyphens: none;
+	-epub-hyphens: none;
+}
+/* end epigraph */
+
+/* footer dateline */
+footer p[epub|type~="se:letter.dateline"]{
+	text-align: left;
+}
+/* end footer dateline */
+
+/* tablet inscription */
+#chapter-1-20 blockquote{
+	text-align: center;
+}
+
+#chapter-1-20 blockquote p:nth-child(3){
+	margin-bottom: 1em;
+}
+/* end tablet inscription */
+
+/* signature list */
+#chapter-2-23 footer p{
+	text-align: left;
+}
+/* end signature list */
+
+/* list style */
+ul{
+	list-style-type: none;
+}
+/* end list style */
