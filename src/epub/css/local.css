@@ -20,3 +20,23 @@ footer{
 	text-indent: 0;
 }
 /* end letters */
+
+/* tables */
+table{
+	border-collapse: collapse;
+	margin: 1em auto;
+}
+
+td:first-child{
+	font-variant-numeric: tabular-nums;
+	text-align: right;
+}
+
+tr:not(:last-child) td:nth-child(2){
+	text-align: center;
+}
+
+td{
+	padding: 0 0.5em 0 0;
+}
+/* end tables */
