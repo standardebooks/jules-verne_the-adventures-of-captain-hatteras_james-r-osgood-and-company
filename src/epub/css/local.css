@@ -20,7 +20,7 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="se:letter.dateline"]{
+[epub|type~="z3998:letter"] header{
 	text-align: right;
 }
 /* end letters */
