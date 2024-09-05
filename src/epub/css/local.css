@@ -55,12 +55,15 @@ td{
 
 /* footer dateline */
 footer p[epub|type~="se:letter.dateline"]{
-	text-align: left;
+	text-align: initial;
+	text-indent: 0;
 }
 /* end footer dateline */
 
-/* tablet inscription */
-#chapter-1-20 blockquote{
+/* center inscriptions */
+#chapter-1-15 blockquote,
+#chapter-1-20 blockquote,
+#chapter-2-26 blockquote{
 	text-align: center;
 }
 
@@ -75,7 +78,7 @@ footer p[epub|type~="se:letter.dateline"]{
 
 /* signature list */
 #chapter-2-23 footer p{
-	text-align: left;
+	text-align: initial;
 }
 /* end signature list */
 
