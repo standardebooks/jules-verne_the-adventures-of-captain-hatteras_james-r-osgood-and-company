@@ -35,10 +35,13 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85001072</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">A mysterious captain assembles a crew and ship for a secret and dangerous voyage.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A letter from an anonymous sea captain sets into motion the gathering of a crew to sail on an unknown adventure. A ship is to be outfitted, seemingly for a journey to polar seas. The voyage starts towards a northern destination with, as far as anyone knows, no captain aboard. The crew will face dangers and hardship as they battle their way through the ice fields of the north, as the captain finally reveals himself and his goal.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Adventures of Captain Hatteras&lt;/i&gt; was published in 1862, in the era of polar exploration. Sailors from many nations were seeking glory for themselves and their home countries, risking their lives to be the first European or American to map out new lands and seas.&lt;/p&gt;
+			&lt;p&gt;A letter from a sea captain, signed only with cryptic initials, directs an experienced sailor to take charge of a crew to sail on a dangerous adventure. A ship is to be built and outfitted according to the captain’s plans. The voyage starts towards a northern destination with, as far as anyone knows, no captain aboard. After some time at sea, the captain finally appears and announces his identity, and his plan to sail to the North Pole. The crew faces dangers and hardship as they fight their way through the icy seas, while the captain single-mindedly drives them to find a passage ever farther north. The sailors relate the various polar expeditions that had happened to date, including ones that were lost. In his usual way, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; adds a lot of history and scientific knowledge to the story.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Adventures of Captain Hatteras&lt;/i&gt; was first published in 1864 under the title &lt;i&gt;Voyages et aventures du capitaine Hatteras&lt;/i&gt;. The polar regions were not completely explored at this time. Verne speculated that the North Pole would be reachable by sea. With the story set in 1861, it would be almost another 50 years for an actual explorer to reach the pole.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/29413</dc:source>
