@@ -3,13 +3,13 @@
 	<file path="chapter-1-32.xhtml">
 		<ignore>
 			<code>t-064</code>
-			<reason>Partially obscured name</reason>
+			<reason>Partially obscured name.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-10.xhtml">
 		<ignore>
 			<code>t-003</code>
-			<reason>Continuing dialog</reason>
+			<reason>Continuing dialog.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
