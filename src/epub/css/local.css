@@ -40,7 +40,7 @@ tr:nth-child(-n+6) td:nth-child(2){
 }
 
 td{
-	padding: 0 0.5em 0 0;
+	padding: 0 .5em 0 0;
 }
 /* end tables */
 
