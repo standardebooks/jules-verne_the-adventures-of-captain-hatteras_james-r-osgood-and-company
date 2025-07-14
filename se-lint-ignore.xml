@@ -5,6 +5,10 @@
 			<code>t-064</code>
 			<reason>Partially obscured name.</reason>
 		</ignore>
+		<ignore>
+			<code>y-035</code>
+			<reason>Partially obscured name.</reason>
+		</ignore>
 	</file>
 	<file path="chapter-2-10.xhtml">
 		<ignore>
