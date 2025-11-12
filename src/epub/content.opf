@@ -56,8 +56,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">James R. Osgood and Company</dc:contributor>
 		<meta property="file-as" refines="#translator">James R. Osgood and Company</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/James_R._Osgood</meta>
