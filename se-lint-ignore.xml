@@ -2,14 +2,17 @@
 <se-lint-ignore>
 	<file path="chapter-1-32.xhtml">
 		<ignore code="t-064">
+			<line>55</line>
 			<reason>Partially obscured name.</reason>
 		</ignore>
 		<ignore code="y-035">
+			<line>54</line>
 			<reason>Partially obscured name.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-10.xhtml">
 		<ignore code="t-003">
+			<line>52</line>
 			<reason>Continuing dialog.</reason>
 		</ignore>
 	</file>
